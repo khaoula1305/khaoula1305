@@ -11,7 +11,7 @@
 
 
 Hi, I'm **Khaoula Benchari**. I am a software engineer. I am  actively looking for a graduation projects.
-I'm intrested about **JavaScript frameworks** and **Java frameworks**,and i'm passionate about working on source codes.
+I'm intrested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about working on source codes.
 
 - 📝 [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
@@ -42,13 +42,7 @@ I'm intrested about **JavaScript frameworks** and **Java frameworks**,and i'm pa
    * [Languages](#Languages)
    
 </details> 
-<!--## Specifications
-| *Name \ Familiarity* | High | Medium | Low |
-| --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Java, C, C++  | JS, Python | c#|
-| **Frameworks** | Spring boot| Node.js, GCP, Git | Vue.js, AWS Tensorflow |
-| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science | Augmented Reality, Parallel Computing, Distributed Systems, Internet of Things |
-| **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |-->
+
 
 
 ## My skills 📜
