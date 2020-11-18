@@ -5,10 +5,9 @@ I'm intrested about **JavaScript frameworks** and **Java frameworks**,and i'm pa
 
 ##  How to reach me 📫
 [Linkdin](https://linkdin.com/in/khaoula1305) |  ✉️ [Email](khaoulabenchari9@gmail.com)
-[![Linkedin: khaoula](https://img.shields.io/badge/-vidursatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidursatija/)](https://linkdin.com/in/khaoula1305)
 
 
-- 🌐 Visit [my porfolio website](https://khaoula1305.github.io)for complete background and contact.
+- 🌐 Visit [my porfolio website] (https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
 
 <!--## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
