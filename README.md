@@ -13,11 +13,11 @@
 Hi, I'm **Khaoula Benchari**. I am a software engineer. I am  actively looking for a graduation projects.
 I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about working on source codes.
 
-- 📝 [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
+- 📝  [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
 ##  How to reach me 📫
  * ✉️ [Email](khaoulabenchari9@gmail.com)
- * 🌐 Visit [my porfolio website](https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
+ * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
 
 **Languages and Tools:**  
 
@@ -31,17 +31,16 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<details>
+<!--details>
 <summary>Table of content</summary>
   
-## Table of content
-   * [Introduction](#Introduction)
-   * [How to reach me](#How-to-reach-me)
-   * [My skills](#My-skills)
-   * [My projects](#My-Projects)
-   * [Languages](#Languages)
+<!--## Table of content
+   * [How to reach me](#How-to-reach-me-)
+   * [My skills](#My-skills-)
+   * [My projects](#My-Projects-)
+   * [Languages](#Languages-)-->
    
-</details> 
+<!--/details--> 
 
 
 
@@ -54,7 +53,8 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 - C, C++, C#
 - Cloud/Aws, Elastic-Beanstalk, EC2
 - PHP, Laraval, Bootstrap
-- Mysql, PostgreSql, Firbase
+- Mysql, PostgreSql, Firebase
+- Git
 
 ## My Projects 💡
 <table>
