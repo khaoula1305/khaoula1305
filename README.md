@@ -7,7 +7,7 @@ I'm intrested about **JavaScript frameworks** and **Java frameworks**,and i'm pa
 [Linkdin](https://linkdin.com/in/khaoula1305) |  ✉️ [Email](khaoulabenchari9@gmail.com)
 
 
-- 🌐 Visit [my porfolio website] (https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
+- 🌐 Visit [my porfolio website](https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
 
 <!--## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
