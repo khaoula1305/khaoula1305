@@ -11,7 +11,7 @@
 
 
 Hi, I'm **Khaoula Benchari**. I am a software engineer. I am  actively looking for a graduation projects.
-I'm intrested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about working on source codes.
+I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about working on source codes.
 
 - 📝 [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
@@ -80,11 +80,10 @@ I'm intrested about **JavaScript frameworks** and **Java frameworks**, and i'm p
 
 - ReactJs
 - Hibernate
-- 
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English (en)  |B1               |
-| French (fr)   | Speak, Read, Write  |
+| French (fr)   | C1  |
 | Arabic        | Native language  |                                                         |
