@@ -55,9 +55,13 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 - PHP, Laraval, Bootstrap
 - Mysql, PostgreSql, Firebase
 - Git
-<details>
-<summary>Table of content</summary>
+
+
 ## My Projects 💡
+
+<details>
+<summary></summary>
+
 <table>
   <thead>
     <tr>
@@ -72,13 +76,20 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
       <td> Shara </td>
       <td> Android/ Java </td>
       <td>mobile object sharing application </td>
-      <td></td>
+      <td>https://github.com/khaoula1305/Shara</td>
      </tr>
     <tr>
       <td> Portfolio</d>
       <td> ReactJs </d>
       <td> My Portfolio </d>
-      <td> https://khaoula1305.github.io/benchari-khaoula </td>
+      <td> https://github.com/khaoula1305/benchari-khaoula </td>
+    </tr>
+    <tr>
+      <td> Gestion des incidents informatiques</d>
+      <td> Spring Boot & Angular </d>
+      <td> Management of IT incidents with an enriched knowledge base </d>
+      <td> in progress </td>
+    </tr>
   
   </tbody>
 </table>
