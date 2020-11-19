@@ -13,10 +13,10 @@
 Hi, I'm **Khaoula Benchari**. I am a software engineer. I am  actively looking for a graduation projects.
 I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about working on source codes.
 
-- 📝  [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
+- 📝   [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
 ##  How to reach me 📫
- * ✉️ [Email](khaoulabenchari9@gmail.com)
+ * ✉️  [Email](khaoulabenchari9@gmail.com)
  * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
 
 **Languages and Tools:**  
@@ -48,14 +48,15 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 
 
 - Java, Spring Boot, Jpa, JEE
-- Javascript, Angular
+- Javascript, Angular, JSX
 - Python, Django
 - C, C++, C#
 - Cloud/Aws, Elastic-Beanstalk, EC2
 - PHP, Laraval, Bootstrap
 - Mysql, PostgreSql, Firebase
 - Git
-
+<details>
+<summary>Table of content</summary>
 ## My Projects 💡
 <table>
   <thead>
@@ -73,8 +74,15 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
       <td>mobile object sharing application </td>
       <td></td>
      </tr>
+    <tr>
+      <td> Portfolio</d>
+      <td> ReactJs </d>
+      <td> My Portfolio </d>
+      <td> https://khaoula1305.github.io/benchari-khaoula </td>
+  
   </tbody>
 </table>
+</details> 
 
 ## What I'm currently learning 📚
 
