@@ -17,7 +17,7 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 
 ##  How to reach me 📫
  * ✉️  [Email](khaoulabenchari9@gmail.com)
- * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/benchari-khaoula) for complete background and contact.
+ * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/) for complete background and contact.
 
 **Languages and Tools:**  
 
@@ -82,7 +82,7 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
       <td> Portfolio</d>
       <td> ReactJs </d>
       <td> My Portfolio </d>
-      <td> https://github.com/khaoula1305/benchari-khaoula </td>
+      <td> https://khaoula1305.github.io </td>
     </tr>
     <tr>
       <td> Gestion des incidents informatiques</d>
