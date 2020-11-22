@@ -15,13 +15,24 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 
 - 📝   [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
+
+  ## Languages and Tools 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+
+
 ##  How to reach me 📫
  * ✉️  [Email](khaoulabenchari9@gmail.com)
  * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/) for complete background and contact.
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -29,7 +40,11 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code-->
+
+
+
+
 
 <!--details>
 <summary>Table of content</summary>
@@ -106,3 +121,5 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 | English (en)  |B1               |
 | French (fr)   | C1  |
 | Arabic        | Native language  |                                                         |
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1305&hide=TeX&layout=compact)
