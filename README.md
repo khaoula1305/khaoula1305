@@ -63,7 +63,7 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 
 
 - Java, Spring Boot, Jpa, JEE
-- Javascript, Angular, JSX
+- Javascript, Angular, JSX, ES6, React
 - Python, Django
 - C, C++, C#
 - Cloud/Aws, Elastic-Beanstalk, EC2
@@ -112,7 +112,7 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 
 ## What I'm currently learning 📚
 
-- ReactJs
+- DevOps Jenkins
 - Hibernate
 ### Languages 🌐
 
