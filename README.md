@@ -15,6 +15,10 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 
 - 📝   [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
+##  How to reach me 📫
+ * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/) for complete background and contact.
+ * ✉️   Email khaoulabenchari9@gmail.com
+
 
   ## Languages and Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
@@ -27,9 +31,7 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 ![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
 
 
-##  How to reach me 📫
- * ✉️  [Email](khaoulabenchari9@gmail.com)
- * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/) for complete background and contact.
+
 
 
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
