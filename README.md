@@ -124,4 +124,5 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 | French (fr)   | C1  |
 | Arabic        | Native language  |                                                         |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1305&hide=TeX&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
