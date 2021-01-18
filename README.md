@@ -125,4 +125,8 @@ I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm 
 | Arabic        | Native language  |                                                         |
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1305&layout=compact)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
+
+
