@@ -10,10 +10,9 @@
 
 
 
-Hi, I'm **Khaoula Benchari**. I am a software engineer. I am  actively looking for a graduation internship.
+Hi, I'm **Khaoula Benchari**. I am a software engineer.
 I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about contributing to open source projects.
 
-- 📝   [Resume](https://drive.google.com/file/d/1bedJKCWvVYvWmbYkVSxandEKCeAKFHYV/view?usp=sharing)
 
 ##  How to reach me 📫
  * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/) for complete background and contact.
