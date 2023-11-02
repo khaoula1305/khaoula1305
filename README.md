@@ -10,9 +10,9 @@
 
 
 
-Hi, I'm **Khaoula Benchari**. I am a software engineer.
-I'm interested about **JavaScript frameworks** and **Java frameworks**, and i'm passionate about contributing to open source projects.
+Hi, I'm **Khaoula Benchari**.
 
+As a software engineer with two years of experience, I specialize in **.NET technologies**. I have collaborated with cross-functional teams to design and develop complex software systems for clients in various industries. I am passionate about using my skills to create innovative solutions that solve real-world problems and improve user experiences, and I am always seeking to expand my knowledge and stay up-to-date with the latest IT trends and best practices.
 
 ##  How to reach me 📫
  * 🌐  Visit [my porfolio website](https://khaoula1305.github.io/) for complete background and contact.
