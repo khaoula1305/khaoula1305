@@ -21,13 +21,14 @@ As a software engineer with two years of experience, I specialize in **.NET tech
 
   ## Languages and Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-dotnet-E34A86?style=flat-square&logo=dotnet)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+
 
 
 
@@ -63,14 +64,13 @@ As a software engineer with two years of experience, I specialize in **.NET tech
 ## My skills 📜
 
 
-- Java, Spring Boot, Jpa, JEE
-- Javascript, Angular, JSX, ES6, React
+- C#, ASP.NET Core, Blazor, .Net Maui 
+- Javascript, Angular, JSX, ES6, React, Flutter
 - Python, Django
-- C, C++, C#
+- C, C++
 - Cloud/Aws, Elastic-Beanstalk, EC2
-- PHP, Laraval, Bootstrap
-- Mysql, PostgreSql, Firebase
-- Git
+- SQL Server, Mysql, PostgreSql, Firebase
+- Git, Github
 
 
 ## My Projects 💡
@@ -113,8 +113,8 @@ As a software engineer with two years of experience, I specialize in **.NET tech
 
 ## What I'm currently learning 📚
 
-- DevOps Jenkins
-- Hibernate
+- Azure
+- IA
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
