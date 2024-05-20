@@ -7,7 +7,7 @@
 
 👩‍💻 **About Me**
 
-As a software engineer with over two years of experience, I specialize in .NET technologies. I have a strong passion for developing innovative solutions that solve real-world problems and enhance user experiences. My expertise lies in collaborating with cross-functional teams to design and develop complex software systems for clients in various industries. I am always eager to expand my knowledge and stay current with the latest IT trends and best practices.
+As a software engineer with over three years of experience, I specialize in .NET technologies. I have a strong passion for developing innovative solutions that solve real-world problems and enhance user experiences. My expertise lies in collaborating with cross-functional teams to design and develop complex software systems for clients in various industries. I am always eager to expand my knowledge and stay current with the latest IT trends and best practices.
 
   *How to reach me* 📫
  * 🌐  Visit [My Portfolio](https://khaoula1305.github.io/) for complete background and contact.(Can be not updated)
