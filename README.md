@@ -10,7 +10,7 @@
 As a software engineer with over three years of experience, I specialize in .NET technologies. I have a strong passion for developing innovative solutions that solve real-world problems and enhance user experiences. My expertise lies in collaborating with cross-functional teams to design and develop complex software systems for clients in various industries. I am always eager to expand my knowledge and stay current with the latest IT trends and best practices.
 
   *How to reach me* 📫
- * 🌐  Visit [My Portfolio](https://khaoula1305.github.io/) for complete background and contact.(Can be not updated)
+ * 🌐  Visit [My Portfolio](https://khaoula1305.github.io/) for complete background and contact.
  * ✉️  [Email](khaoulabenchari9@gmail.com)
  *  <a href="https://www.linkedin.com/in/khaoula1305" target="_blank"><img alt="khaoula1305's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
@@ -58,7 +58,7 @@ Feel free to connect with me for opportunities in software development, collabor
 - Oversee all aspects of project planning, execution, and delivery.
 - Respond to internal client demands and automate tasks by identifying needs and proposing appropriate solutions.
 - Create and design WEB API, add Authentication, Logging And Error Handling.
-- 
+- Fix bugs and refactor legacy codebase
 
 **Dot Net/ Angular Developer** (2021 - 2022)
 - Participate in the design and development phases of use cases and implementation of complex components.
