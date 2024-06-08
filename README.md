@@ -94,8 +94,11 @@ Feel free to connect with me for opportunities in software development, collabor
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1305&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaoula1305&theme=github_dark)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
+![Khaoula's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaoula1305&theme=github_dark)
+
 
 
  [.](https://mega.nz/folder/4D8THCAJ#kbNAs_jVq6uehqoMV--ohw) 
